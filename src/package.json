@@ -1,0 +1,13 @@
+{
+  "name": "pbta_dice_roller",
+  "version": "0.0.1",
+  "description": "Use Discord reactions to roll 2d6 plus modifiers, for use in PbtA RPG games",
+  "main": "index.js",
+  "author": "Cole Spears",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "mathjs": "^6.2.1",
+    "winston": "^3.2.1"
+  }
+}
