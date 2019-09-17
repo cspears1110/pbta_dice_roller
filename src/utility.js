@@ -46,24 +46,24 @@ exports.getEmbed = function (reaction, arr, name) {
 }
 
 //ID of Custom Emoji on Server (\:name:)
-exports.MINUS_THREE_ID = '619348136564883476';
-exports.MINUS_TWO_ID = '619348136552431654';
-exports.MINUS_ONE_ID = '619348136527265823';
-exports.PLUS_MINUS_ZERO_ID = '619348136552562700';
-exports.PLUS_ONE_ID = '619348136510619669';
-exports.PLUS_TWO_ID = '619348136657289236';
-exports.PLUS_THREE_ID = '619348136699101185';
-exports.PLUS_FOUR_ID = '619348136732917810';
+exports.MINUS_THREE_ID = '';
+exports.MINUS_TWO_ID = '';
+exports.MINUS_ONE_ID = '';
+exports.PLUS_MINUS_ZERO_ID = '';
+exports.PLUS_ONE_ID = '';
+exports.PLUS_TWO_ID = '';
+exports.PLUS_THREE_ID = '';
+exports.PLUS_FOUR_ID = '';
 
 //Name of Custom Emoji on Server
-exports.MINUS_THREE_NAME = 'minus3';
-exports.MINUS_TWO_NAME = 'minus2';
-exports.MINUS_ONE_NAME = 'minus1';
-exports.PLUS_MINUS_ZERO_NAME = 'plusminus0';
-exports.PLUS_ONE_NAME = 'plus1';
-exports.PLUS_TWO_NAME = 'plus2';
-exports.PLUS_THREE_NAME = 'plus3';
-exports.PLUS_FOUR_NAME = 'plus4';
+exports.MINUS_THREE_NAME = '';
+exports.MINUS_TWO_NAME = '';
+exports.MINUS_ONE_NAME = '';
+exports.PLUS_MINUS_ZERO_NAME = '';
+exports.PLUS_ONE_NAME = '';
+exports.PLUS_TWO_NAME = '';
+exports.PLUS_THREE_NAME = '';
+exports.PLUS_FOUR_NAME = '';
 
 exports.REACTION_NAME_ARRAY = [this.MINUS_THREE_NAME, this.MINUS_TWO_NAME, this.MINUS_ONE_NAME, this.PLUS_MINUS_ZERO_NAME, this.PLUS_ONE_NAME, this.PLUS_TWO_NAME, this.PLUS_THREE_NAME, this.PLUS_FOUR_NAME]
 
